@@ -1,5 +1,2 @@
 # nick
-Nas kviz
-ok
-novy
-lepsejsi
+prvni projekt
