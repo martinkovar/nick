@@ -1,2 +1,2 @@
 # nick
-Sdílený kod
+<code>Pokyny pro build</code>
