@@ -1,0 +1,4 @@
+<ion-view view-title="Quick quiz Výběr obtížnosti">
+        <p>Vyberte obtížnost rychlovky</p>
+        <a ng-repeat="difficulty in difficulties" class="button" ng-click="selectDifficulty(difficulty.id)">{{ difficulty.title }}</a>
+</ion-view>
